@@ -37,3 +37,7 @@ If the core process does not exist as it should be, then this tool can not work 
 
 Run the tool by executing `python process_pruner.py` or 
 include the process into another project via `from process_pruner import process_pruner` 
+
+## Video
+
+Demo: [ Process Pruner running ]( ICPM-2019-Process-Pruner.webm )
