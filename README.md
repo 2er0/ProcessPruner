@@ -40,4 +40,6 @@ include the process into another project via `from process_pruner import process
 
 ## Video
 
-Demo: [ Process Pruner running ]( ICPM-2019-Process-Pruner.webm )
+Demo: [ Process Pruner ]( https://2er0.github.io/ProcessPruner/ICPM-2019-Process-Pruner.webm )
+
+GitHub Page: [ Web view ]( https://2er0.github.io/ProcessPruner/ )
