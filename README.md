@@ -5,7 +5,7 @@ It allows to process the log before further manually analysing a given log.
 
 ## Features
 
-This tools uses a part of the Alpha algorithm, which is very good known in the 
+This tools uses footprint matrices like in the Alpha algorithm, which are known in the 
 process mining community.
 This tool and its algorithm uses footprint matrices to find the core process in en event log.
 
